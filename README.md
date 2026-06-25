@@ -1,5 +1,3 @@
-# KUIS-KELAS-1
-
 <!DOCTYPE html>
 <html lang="id">
 <head>
